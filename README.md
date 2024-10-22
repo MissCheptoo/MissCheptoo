@@ -2,7 +2,7 @@
 - 👀 I’m interested in DATA SCIENCE, DATA ANALYSIS and MACHINE LEARNING
 - 🌱 I’m currently learning NEURAL NETWORKS
 - 💞️ I’m looking to collaborate on PROJECTS
-- 📫 You can reach me via my linkedin.com/in/mercycheptoo5 
+- 📫 You can reach me via my [Linkedin](linkedin.com/in/mercycheptoo5)
 - I am really excited about the future.
 
   
