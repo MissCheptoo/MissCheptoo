@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MissCheptoo 
 - 👀 I’m interested in DATA SCIENCE, DATA ANALYSIS and MACHINE LEARNING
-- 🌱 I’m currently learning NEURAL NETWORKS
+- 🌱 I’m currently learning DATA ENGINEERING
 - 💞️ I’m looking to collaborate on PROJECTS
 - 📫 You can reach me via my email: mercycheptoo1851@gmail.com
 - I am really excited about the future.
